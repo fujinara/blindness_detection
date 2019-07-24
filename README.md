@@ -1,2 +1,2 @@
 # blindness_detection
-Diabetic retinopathy detection
+Diabetic retinopathy detection.
